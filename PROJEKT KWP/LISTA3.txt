@@ -1,0 +1,63 @@
+Lista pinów
+
+Part     Pad      Net
+
+C1       1        N$4
+         2        GND
+
+C2       1        N$6
+         2        GND
+
+C3       1        N$8
+         2        GND
+
+C4       1        N$10
+         2        GND
+
+C5       +        N$9
+         -        N$2
+
+C6       +        +12V
+         -        GND
+
+J1       1        +12V
+         2        GND
+
+J2       1        GND
+         2        N$1
+
+R1       1        N$5
+         2        N$6
+
+R2       1        N$5
+         2        +12V
+
+R3       1        N$3
+         2        N$10
+
+R4       1        N$12
+         2        N$3
+
+R5       1        N$3
+         2        +12V
+
+R6       1        N$1
+         2        N$2
+
+U1       1        GND
+         2        N$6
+         3        N$12
+         4        +12V
+         5        N$4
+         6        N$6
+         7        N$5
+         8        +12V
+
+U2       1        GND
+         2        N$10
+         3        N$9
+         4        +12V
+         5        N$8
+         6        N$10
+         7        N$3
+         8        +12V

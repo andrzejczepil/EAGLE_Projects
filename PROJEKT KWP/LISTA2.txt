@@ -1,0 +1,20 @@
+Lista elementów
+
+Part     Value          Device        Package  Library      
+
+C1       10n            C-EUC1206     C1206    rcl          
+C2       100n           C-EUC1206     C1206    rcl          
+C3       10n            C-EUC1206     C1206    rcl          
+C4       10n            C-EUC1206     C1206    rcl          
+C5       25V 10u        CPOL-EUE1.8-4 E1,8-4   rcl          
+C6       220u 25V       CPOL-EUE2-4   E2-4     rcl          
+J1                      W237-102      W237-102 con-wago-500 
+J2                      W237-102      W237-102 con-wago-500 
+R1       1M             R-EU_0207/10  0207/10  rcl          
+R2       11k            R-EU_0207/10  0207/10  rcl          
+R3       11k            R-EU_0207/10  0207/10  rcl          
+R4       3k6            R-EU_0207/10  0207/10  rcl          
+R5       330k           R-EU_0207/10  0207/10  rcl          
+R6       100            R-EU_0207/10  0207/10  rcl          
+U1       NE555          NE555         DIL-08   Projekt_123  
+U2       NE555          NE555         DIL-08   Projekt_123  

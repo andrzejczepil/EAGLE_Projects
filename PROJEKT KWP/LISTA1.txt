@@ -1,0 +1,59 @@
+Lista połączeń
+
+Net      Part     Pad      Pin        
+
++12V     C6       +        +          
+         J1       1        KL         
+         R2       2        2          
+         R5       2        2          
+         U1       4        RS         
+         U1       8        V+         
+         U2       4        RS         
+         U2       8        V+         
+
+GND      C1       2        2          
+         C2       2        2         
+         C3       2        2          
+         C4       2        2          
+         C6       -        -          
+         J1       2        KL         
+         J2       1        KL         
+         U1       1        GND        
+         U2       1        GND        
+
+N$1      J2       2        KL         
+         R6       1        1          
+
+N$2      C5       -        -          
+         R6       2        2          
+
+N$3      R3       1        1          
+         R4       2        2          
+         R5       1        1          
+         U2       7        DIS        
+
+N$4      C1       1        1          
+         U1       5        CV         
+
+N$5      R1       1        1          
+         R2       1        1          
+         U1       7        DIS        
+
+N$6      C2       1        1          
+         R1       2        2          
+         U1       2        TR         
+         U1       6        THR        
+
+N$8      C3       1        1          
+         U2       5        CV         
+
+N$9      C5       +        +          
+         U2       3        O          
+
+N$10     C4       1        1          
+         R3       2        2         
+         U2       2        TR         
+         U2       6        THR        
+
+N$12     R4       1        1          
+         U1       3        O          

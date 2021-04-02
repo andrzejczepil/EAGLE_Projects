@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2018-11-28T16:58:01Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.2.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Project_Czepil_Zwolinska"
+        },
+        "Owner": "Andrzej Czepil <s165431@student.pg.gda.pl>",
+        "Size": {
+            "X": 160,
+            "Y": 100
+        }
+    }
+}
